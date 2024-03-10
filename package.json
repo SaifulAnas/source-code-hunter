@@ -1,6 +1,6 @@
 {
-  "name": "gotrexdao",
-  "version": "0.1.6",
+  "name": "source-code-hunter",
+  "version": "1.4.6",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "michelrhwio": "^1.1.0",
+    "galorex": "^1.1.0",
     "express": "^4.18.2",
     "randomstring": "^1.1.5",
 	    "axios": "^1.4.0",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SaifulAnasz/GotrexDao"
+    "url": "https://github.com/SaifulAnas/source-code-hunter"
   },
-  "homepage": "https://github.com/SaifulAnasz/GotrexDao#readme"
+  "homepage": "https://github.com/SaifulAnas/source-code-hunter#readme"
   }
